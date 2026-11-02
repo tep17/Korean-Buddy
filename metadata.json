@@ -1,0 +1,6 @@
+{
+  "name": "Korean Buddy",
+  "description": "Interactive Korean language learning app for English and Filipino learners with Hangul, everyday lessons, quizzes, audio, and vocabulary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
